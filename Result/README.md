@@ -1,6 +1,6 @@
 # Result
 
-## For GLM 5.3 Flash
+## For DeepSeek V4.1 Flash
 
 After you finish combining everything from `you have to combine/`, put the **final deliverable here**.
 

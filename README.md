@@ -4,7 +4,7 @@ Mobile **Godot 4** project workspace.
 
 ---
 
-## Instructions for GLM 5.3 Flash
+## Instructions for DeepSeek V4.1 Flash
 
 **Read this carefully and complete the full pipeline.**
 
@@ -42,7 +42,7 @@ neon-highway/
     └── (your final .zip)
 ```
 
-### Checklist for GLM 5.3 Flash
+### Checklist for DeepSeek V4.1 Flash
 
 - [ ] Download `Combine_these.zip` from MediaFire: https://www.mediafire.com/file/b30kq7k28juq8ip/Combine_these.zip/file
 - [ ] Extract / use files via `you have to combine/`

@@ -6,7 +6,7 @@
 
 https://www.mediafire.com/file/b30kq7k28juq8ip/Combine_these.zip/file
 
-## For GLM 5.3 Flash
+## For DeepSeek V4.1 Flash
 
 1. Download `Combine_these.zip` from the MediaFire link above.
 2. Extract it and use this folder (`you have to combine/`) as the input workspace.
